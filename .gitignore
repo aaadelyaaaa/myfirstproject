@@ -1,0 +1,4 @@
+*.txt
+doc/notes.txt
+doc/*
+!doc/arch.txt
